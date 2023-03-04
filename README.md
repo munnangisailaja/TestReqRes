@@ -2,13 +2,13 @@
 
 The goal of this project is to provide a good starting point for those looking to use SpecFlow and RESTSHARP together. It is also intended to demonstrate how to implement different API calls in a test framework.
 
-## Resources
+# Resources
 
-C#
-SpecFlow
-NUGET
-RESTSHARP
-MSTEST
+- C#
+- SpecFlow
+- NUGET
+- RESTSHARP
+- MSTEST
 
 # SETUP
 Download and install Visual studio.
